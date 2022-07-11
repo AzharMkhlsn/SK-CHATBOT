@@ -1,0 +1,2 @@
+netstat -ltnp | grep -w ':8000' 
+netstat -ltnp | grep -w ':8001' 
